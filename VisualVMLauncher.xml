@@ -1,0 +1,7 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="" />
+    <option name="useTabIndex" value="true" />
+    <option name="visualVmExecutable" value="$USER_HOME$/bin/visualvm_203/bin/visualvm" />
+  </component>
+</application>
