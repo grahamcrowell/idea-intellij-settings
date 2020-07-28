@@ -6,11 +6,10 @@
       <value>
         <package name="" withSubpackages="true" static="true" />
         <emptyLine />
-        <package name="com" withSubpackages="true" static="false" />
-        <emptyLine />
         <package name="java" withSubpackages="true" static="false" />
         <emptyLine />
-        <package name="org" withSubpackages="true" static="false" />
+        <package name="org.vena" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
