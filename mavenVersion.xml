@@ -1,0 +1,3 @@
+<application>
+  <component name="MavenVersion" vmOptions="-Xmx1500m" embedderJdk="1.8 openjdk" mavenHome="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+</application>

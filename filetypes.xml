@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="deps" type="Dockerfile" />
-      <mapping ext="dev" type="Dockerfile" />
       <mapping ext="requirements" type="Dockerfile" />
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="deps" type="Dockerfile" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="netrc" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping pattern="netrc" type="PLAIN_TEXT" />
+      <mapping ext="calc" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
-      <mapping ext="$command_count-1); for(my $idx = 0; $idx &lt;= $#idxs; $idx++){  print(&quot;$matches[$idx] - $matches[$idx + 1]\n&quot;);  $idx++; }" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="$command_count-1); for(my $idx = 0; $idx &lt;= $#idxs; $idx++){  print(&quot;$matches[$idx] - $matches[$idx + 1]\n&quot;);  $idx++; }" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
