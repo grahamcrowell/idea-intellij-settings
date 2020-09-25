@@ -6,6 +6,7 @@
       <mapping ext="requirements" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".sdkmanrc" type="PLAIN_TEXT" />
       <mapping pattern="netrc" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping ext="calc" type="PLAIN_TEXT" />
