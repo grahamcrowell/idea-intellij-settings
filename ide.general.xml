@@ -17,7 +17,6 @@
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
         <entry key="TypeAwareHighlighting" value="false" />
-        <entry key="mtStatusBar" value="false" />
       </map>
     </option>
   </component>
