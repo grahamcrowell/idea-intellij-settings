@@ -1,4 +1,7 @@
 <keymap version="1" name="gc-ubuntu-2020" parent="Default for GNOME">
+  <action id="ActivateANTLRPreviewToolWindow">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
