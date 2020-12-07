@@ -1,0 +1,13 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d8174fe1-a233-447a-a919-4e8ca2e3338f" name="gcrowell">
+      <server useHttp="true" host="github.vena.vpn" />
+    </account>
+    <account id="586c7ccf-28f0-4510-94d6-796b04bec34a" name="grahamcrowell">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>

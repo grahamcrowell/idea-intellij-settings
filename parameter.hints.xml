@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Rust">
+        <added pattern="petgraph::dot::with_config(graph,config)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
