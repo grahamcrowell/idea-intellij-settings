@@ -16,6 +16,7 @@
       <mapping ext="$command_count-1); for(my $idx = 0; $idx &lt;= $#idxs; $idx++){  print(&quot;$matches[$idx] - $matches[$idx + 1]\n&quot;);  $idx++; }" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
