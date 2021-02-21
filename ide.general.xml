@@ -17,7 +17,6 @@
         <entry key="InsertOverwrite" value="false" />
         <entry key="InspectionProfile" value="false" />
         <entry key="LineSeparator" value="false" />
-        <entry key="Memory" value="true" />
         <entry key="TypeAwareHighlighting" value="false" />
       </map>
     </option>
