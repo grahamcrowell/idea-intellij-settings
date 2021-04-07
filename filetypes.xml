@@ -4,6 +4,7 @@
       <mapping ext="deps" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="requirements" type="Dockerfile" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
