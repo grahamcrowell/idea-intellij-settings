@@ -1230,7 +1230,7 @@
       </debugger>
       <debugger id="Rust">
         <configuration>
-          <option name="lldbPath" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/intellij-rust/lldb" />
+          <option name="lldbPath" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2021.1/intellij-rust/lldb" />
         </configuration>
       </debugger>
     </debuggers>
