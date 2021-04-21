@@ -1,0 +1,5 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="com.jetbrains.python.codeInsight.postfix.PyPrintPostfixTemplate#.print" key=".print" provider="builtin.python" builtin="com.jetbrains.python.codeInsight.postfix.PyPrintPostfixTemplate#.print" />
+  </component>
+</application>

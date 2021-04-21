@@ -1,0 +1,14 @@
+<templateSet group="Python">
+  <template name="strf" value="f&quot;$expr$={$expr$}&quot;" description="string interpolation" toReformat="false" toShortenFQNames="true">
+    <variable name="expr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="print" value="print(f&quot;$expr$={$expr$}&quot;)" description="print key-value string interpolation" toReformat="false" toShortenFQNames="true">
+    <variable name="expr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
