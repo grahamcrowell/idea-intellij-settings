@@ -41,6 +41,7 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="RunJsbtTask" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -48,6 +49,9 @@
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt f11" />
   </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewBreakpoints" />
