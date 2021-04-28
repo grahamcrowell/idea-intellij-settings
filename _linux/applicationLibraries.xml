@@ -34,32 +34,5 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.8 (sbx) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.3/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.3/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/Documents/vena/sbx/.venv/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1839261882" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.3/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.3/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/Documents/vena/sbx/.venv/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1839261882" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
   </component>
 </application>
