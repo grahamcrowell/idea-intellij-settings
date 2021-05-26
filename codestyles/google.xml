@@ -18,8 +18,8 @@
     </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
-        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="" withSubpackages="true" static="true" />
       </value>
     </option>
@@ -32,7 +32,6 @@
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="CSS">
     <indentOptions>
