@@ -7,6 +7,7 @@
   </action>
   <action id="ClassTemplateNavigation" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="EditBreakpoint" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -33,10 +34,14 @@
   <action id="GoToClass" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="Mvc.RunTarget" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="RunJsbtTask" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -44,5 +49,17 @@
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="ViewBreakpoints" />
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+  </action>
+  <action id="basicGoogleCodeSearchAction" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
+    <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
 </keymap>
